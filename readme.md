@@ -1,4 +1,10 @@
-![](BHP_website.PNG)
+![Screenshot (79)](https://user-images.githubusercontent.com/91657585/228924595-7b5f8aac-8a63-4dbe-93ce-39b043603c8a.png)![Screenshot (80)](https://user-images.githubusercontent.com/91657585/228924639-c99d5f52-9316-4d3b-9abc-ab28c1251566.png)![Screenshot (84)](https://user-images.githubusercontent.com/91657585/228924709-193a7e86-7663-4461-9872-2ca1800b5efe.png)
+
+![Screenshot (81)](https://user-images.githubusercontent.com/91657585/228924668-dade349f-8582-41ff-bda9-1cb107803fd0.png)
+
+![Screenshot (78)](https://user-images.githubusercontent.com/91657585/228924617-a1cbf450-5e48-41cd-b907-4da13986ebdf.png)
+
+
 
 This data science project series walks through step by step process of how to build a real estate price prediction website. We will first build a model using sklearn and linear regression using banglore home prices dataset from kaggle.com. Second step would be to write a python flask server that uses the saved model to serve http requests. Third component is the website built in html, css and javascript that allows user to enter home square ft area, bedrooms etc and it will call python flask server to retrieve the predicted price. During model building we will cover almost all data science concepts such as data load and cleaning, outlier detection and removal, feature engineering, dimensionality reduction, gridsearchcv for hyperparameter tunning, k fold cross validation etc. Technology and tools wise this project covers,
 
